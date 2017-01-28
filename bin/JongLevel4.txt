@@ -1,0 +1,58 @@
+;
+;		MahJong	Fichier de configuration de niveau (Map)
+;
+;
+;		le nombre de couches ne doit pas exceder 4
+;		le nombre de tuiles placé sur toutes les couches doit être égale a 144
+
+; nom du plateau affiché dans la barre de la fenetre. A mettre entre guillemets
+nom "a la con"
+
+; taille du plateau
+; la taille ne doit pas exceder 16 par 16
+
+taille = 12,8
+
+; couches par ordre de la base vers le haut
+; les '0' representent une tuile
+; les '.' representent un vide
+
+[couche]
+000000000000
+000000000000
+000000000000
+000000000000
+000000000000
+000000000000
+000000000000
+000000000000
+
+[couche]
+............
+00........00
+000......000
+0000....0000
+0000....0000
+000......000
+00........00
+............
+
+[couche]
+............
+............
+0..........0
+00........00
+00........00
+0..........0
+............
+............
+
+[couche]
+............
+............
+............
+............
+............
+............
+............
+............

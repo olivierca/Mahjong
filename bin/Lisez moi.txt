@@ -1,0 +1,29 @@
+Mise a jour v0.4:
+
+-Nouvelles tuiles presque bien
+
+Mise a jour v0.3:
+
+-Nouvelles Tuiles plus lisibles ?
+-Vorrection contour des tuiles.
+-Possibilité de charger un plateau (dans Menu) sans devoir a chaque fois renommer le fichier par defaut.
+-Donner un nom au plateau dans le fichier .TXT qui s'affichera dans la barre.
+-Nouveaux plateaux.
+
+Mise a jour v0.2:
+
+Les News:
+
+-Plus de Boites 'Gagne' et 'plus de solutions'. Afficher sur la fenetre maintenant
+
+-Nouveau plateau plus étalé et plus simple ?
+Ancien Toujours disponible en renommant JongLevel.old en JongLevel.txt (voir ci-dessus)
+
+-Possibilité de faire ces propres plateau !
+
+Un nouveau fichier 'JongLevel.txt' doit etre mis dans le repertoire du jeux
+ce fichier contient la définition du plateau (position des tuiles)
+
+Pour faire un nouveau plateau:
+-Faire une sauvegarde de l'ancien sous un autre nom si on veut le garder.
+-Modifier le fichier jonglevel.txt comme indiqué dedans.
